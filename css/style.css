@@ -288,9 +288,21 @@ a:focus {
   border-color: #ffffff;
   color: #ffffff;
 }
+
+.slider_section .portrait-container .img-box img {
+  width: 65%;
+  background-color: #FFFFFF;
+  padding: 4px;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
  
 .slider_section .img-container .img-box img {
-  width: 100%;
+  width: 75%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
 }
 
 .slider_section #carouselExampleIndicators {
